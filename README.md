@@ -15,7 +15,7 @@
   - *Link:* https://github.com/AdilShamim8/100-Simple-Websites  
 
 - **100plusjs**  
-  - *Use:* sorry no description
+  - *Use:* learn js by real hands-on projects
   - *Link:* https://github.com/pradipchaudhary/100plusjs  
 
 - **100 Days of JavaScript**  
