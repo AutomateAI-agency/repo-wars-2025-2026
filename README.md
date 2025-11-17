@@ -24,7 +24,7 @@
 
 - **Build Your Own X**  
   - *Use:* Guides to build various technologies from scratch — great for deep learning by building your own apps.
-  - *Link:* https://github.com/AutomateAI-agency/build-your-own-x  
+  - *Link:* https://github.com/codecrafters-io/build-your-own-x
 
 - **100 Days 100 Web Projects**  
   - *Use:* Frontend challenge: build one mini web project every day using HTML, CSS, and JavaScript.   
