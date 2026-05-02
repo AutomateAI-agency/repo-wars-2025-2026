@@ -1,42 +1,15 @@
-- **Awesome-Clone**  
-  - *Use:* A curated list of clone projects (React, Vue, Svelte) — good for learning by example.
-  - *Link:* https://github.com/MasterBrian99/Awesome-Clone  
+- **awesome-llm-apps** | https://github.com/blurred-machine/awesome-llm-apps | Collection of 100+ LLM apps with AI Agents, Multi-agent Teams, RAG, MCP, and Voice Agents using OpenAI, Anthropic, Gemini, and open-source models. [citation:1]
 
-- **Clone Wars**  
-  - *Use:* 100+ open-source clones of popular sites (Airbnb, Instagram, YouTube, etc.) with demo links and tech stack.
-  - *Link:* https://github.com/GorvGoyl/Clone-Wars  
+- **awesome-ai-agents** | https://github.com/openbotai/awesome-ai-agents | Curated list of AI agent papers, frameworks (AutoGPT, MetaGPT, CAMEL), and applications including autonomous agents, coding agents, and multi-agent systems. [citation:2]
 
-- **Awesome AI Agents**  
-  - *Use:* A list of autonomous AI agents — frameworks, tools, and projects for building agentic systems.
-  - *Link:* https://github.com/e2b-dev/awesome-ai-agents  
+- **awesome-ai-apps** | https://github.com/rohitg00/awesome-ai-apps | Curated collection of practical AI agents and generative AI apps organized into Starter Agents, Advanced Agents, Multi-Agent Teams, RAG, and Multimodal Apps targeting 100+ applications. [citation:3]
 
-- **100 Simple Websites**  
-  - *Use:* Beginner-friendly web dev practice: 100 small websites built with HTML, CSS & js.  
-  - *Link:* https://github.com/AdilShamim8/100-Simple-Websites  
+- **awesome-agents** | https://github.com/l-aime/awesome-agents | Comprehensive catalog of cutting-edge AI agent projects, frameworks, research papers, and tools covering software development agents, multi-agent collaboration, browser automation, and financial trading. [citation:4]
 
-- **100plusjs**  
-  - *Use:* learn js by real hands-on projects
-  - *Link:* https://github.com/pradipchaudhary/100plusjs  
+- **AI-Agents-and-LLM-apps** | https://github.com/aXp-Engineering/AI-Agents-and-LLM-apps | Collection of LLM apps with RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents featuring starter agents, advanced agents, game-playing agents, and multi-agent teams. [citation:5]
 
-- **100 Days of JavaScript**  
-  - *Use:* Collection of code from the AsmrProg YouTube channel’s "100 Days of JavaScript" coding playlist.
-  - *Link:* https://github.com/AsmrProg-YT/100-days-of-javascript  
+- **awesome-production-agentic-systems** | https://github.com/EthicalML/awesome-production-agentic-systems | Curated list of open-source libraries for deploying, monitoring, versioning, scaling, and securing production agentic systems including frameworks, observability tools, memory management, and security. [citation:8]
 
-- **Build Your Own X**  
-  - *Use:* Guides to build various technologies from scratch — great for deep learning by building your own apps.
-  - *Link:* https://github.com/codecrafters-io/build-your-own-x
+- **Awesome-Gui-Agents** | https://github.com/supernalintelligence/Awesome-Gui-Agents | Comprehensive list of GUI compute agents—AI systems that see, understand, and interact with graphical interfaces—covering commercial agents, open-source agents, and research projects across browser, desktop, and physical environments. [citation:10]
 
-- **100 Days 100 Web Projects**  
-  - *Use:* Frontend challenge: build one mini web project every day using HTML, CSS, and JavaScript.   
-  - *Link:* https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS  
-
-- **Awesome LLM Apps**  
-  - *Use:* Curated LLM (Large Language Model) apps using RAG, multi-agent systems, voice agents, etc. 
-  - *Link:* https://github.com/Shubhamsaboo/awesome-llm-apps  
-
-- **Awesome**  
-  - *Use:* A master list of “awesome” lists — covers a huge variety of topics and curated resources.   
-  - *Link:* https://github.com/sindresorhus/awesome
-  - **free programming books**  
-  - *Use:* A curated list of free programming books — good for learning programming for beginners. 
-  - *Link:* https://github.com/EbookFoundation/free-programming-books  
+ **Note:** The repositories above are curation/awesome-list repos that themselves contain **dozens to hundreds** of AI agent projects and apps. For a deeper dive, each repo links out to individual AI agent implementations.
